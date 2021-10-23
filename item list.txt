@@ -3,3 +3,4 @@ toys
 kitchenware
 clothing
 shoes
+bikes
